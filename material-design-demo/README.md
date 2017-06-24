@@ -1,8 +1,3 @@
-# material-design-demo
-A demo of single page application with UI elements that adheres to the material design specification https://material.io/
-
-
-
 # MaterialDesignDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
