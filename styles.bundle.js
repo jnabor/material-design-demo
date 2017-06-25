@@ -23,7 +23,7 @@ exports = module.exports = __webpack_require__("./node_modules/css-loader/lib/cs
 exports.i(__webpack_require__("./node_modules/css-loader/index.js?{\"sourceMap\":false,\"importLoaders\":1}!./node_modules/postcss-loader/index.js?{\"ident\":\"postcss\"}!./node_modules/@angular/material/prebuilt-themes/indigo-pink.css"), "");
 
 // module
-exports.push([module.i, "/* @import '~@angular/material/prebuilt-themes/deeppurple-amber.css'; */\n/* @import '~@angular/material/prebuilt-themes/pink-bluegrey.css'; */\n/* @import '~@angular/material/prebuilt-themes/purple-green.css'; */\n\nbody {\n    font-family: Roboto,Helvetica Neue,sans-serif;\n    font-size: 14px;\n    font-weight: 500;\n    padding: 0;\n    margin: 0;\n}", ""]);
+exports.push([module.i, "\n/* @import '~@angular/material/prebuilt-themes/deeppurple-amber.css'; */\n/* @import '~@angular/material/prebuilt-themes/pink-bluegrey.css'; */\n/* @import '~@angular/material/prebuilt-themes/purple-green.css'; */\n\nbody {\n    font-family: Roboto,Helvetica Neue,sans-serif;\n    font-size: 14px;\n    font-weight: 500;\n    padding: 0;\n    margin: 0;\n}", ""]);
 
 // exports
 
