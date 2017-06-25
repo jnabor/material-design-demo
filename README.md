@@ -1,5 +1,6 @@
 # material-design-demo
-A demo of single page application with UI elements that adheres to the material design specification https://material.io/
+A demo of single page application with UI elements that adheres to the material design specification https://material.io/.
+This demo is using Angular (https://angular.io/) and angular material (https://material.angular.io/)
 
 
 
